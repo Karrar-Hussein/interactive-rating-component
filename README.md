@@ -29,7 +29,6 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [https://karrar-hussein.github.io/interactive-rating-component/](https://karrar-hussein.github.io/interactive-rating-component/)
 
 ## My process
